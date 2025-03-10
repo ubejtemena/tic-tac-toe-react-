@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ubejtemena/tic-tac-toe-react-",
+  "homepage": "https://github.com/ubejtemena/tic-tac-toe-react-/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
