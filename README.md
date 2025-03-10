@@ -8,3 +8,12 @@ Currently, two official plugins are available:
 # tic-tac-toe-react-
 
 Simple tic-tac-toe game with abillity to review previous steps and change them.
+
+ ## Usage
+- Clone the repo
+- install Node.js and npm
+- Install Project Dependencies 
+   '# npm install'
+- Depends on what you want to do with it u either:
+  '# npm run dev' - developer tool.
+  '# npm run build' '# npm run preview' - preview the production build
