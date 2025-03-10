@@ -1,0 +1,77 @@
+.squareX {
+  background: darkgrey;
+  border: 1px solid #999;
+  float: left;
+  font-size: 8em;
+  font-weight: bold;
+  line-height: 34px;
+  height: 10rem;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 10rem;
+  color: lightpink;
+}
+.squareO {
+  background: darkgrey;
+  border: 1px solid #999;
+  float: left;
+  font-size: 8em;
+  font-weight: bold;
+  line-height: 34px;
+  height: 10rem;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 10rem;
+  color: lightblue;
+}
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 8em;
+  font-weight: bold;
+  line-height: 34px;
+  height: 10rem;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 10rem;
+}
+
+.square:hover{
+  background: grey;
+}
+
+.board-row:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+  font-size: 1.7rem;
+  color: white;
+}
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 25px;
+}
+.history{
+  list-style-type: none;
+  margin-left: 150px;
+}
+.moveto{
+  width: 15rem;
+  height: 4rem;
+}
+
