@@ -8,5 +8,3 @@ Currently, two official plugins are available:
 # tic-tac-toe-react-
 
 Simple tic-tac-toe game with abillity to review previous steps and change them.
-
-Github Pages: https://ubejtemena.github.io/tic-tac-toe-react-/
