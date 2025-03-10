@@ -13,7 +13,7 @@ Simple tic-tac-toe game with abillity to review previous steps and change them.
 - Clone the repo
 - install Node.js and npm
 - Install Project Dependencies 
-   -`# npm install`
+   1.`npm install`
 - Depends on what you want to do with it u either:
-  -`# npm run dev` - developer tool.
-  -`# npm run build` `# npm run preview` - preview the production build
+  1.`npm run dev` - developer tool.
+  1.`npm run build` `npm run preview` - preview the production build
